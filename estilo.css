@@ -298,7 +298,7 @@ box-shadow: inset -1px 3px 8px 5px #ff6b01, 2px 5px 16px 0px #ff6b01, 5px 5px 15
 }
 @keyframes htmlcss {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 50%;}
 }
 
 .skills .skill .photoshop{
@@ -307,7 +307,7 @@ box-shadow: inset -1px 3px 8px 5px #ff6b01, 2px 5px 16px 0px #ff6b01, 5px 5px 15
 }
 @keyframes photoshop {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 50%;}
 }
 
 .skills .skill .wordpress{
@@ -316,7 +316,7 @@ box-shadow: inset -1px 3px 8px 5px #ff6b01, 2px 5px 16px 0px #ff6b01, 5px 5px 15
 }
 @keyframes wordpress {
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 50%;}
 }
 
 .skills .skill .drupal{
@@ -325,7 +325,7 @@ box-shadow: inset -1px 3px 8px 5px #ff6b01, 2px 5px 16px 0px #ff6b01, 5px 5px 15
 }
 @keyframes drupal {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 50%;}
 }
 
 .skills .skill .comunicacion{
